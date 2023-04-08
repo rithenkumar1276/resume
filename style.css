@@ -1,0 +1,26 @@
+body {
+    background-color: azure;
+}
+img{
+    height: 170px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    border-color: rgb(245, 220, 235);
+    width: 4%;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+table{
+    border-color: black;
+    border-style: none;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+
+}
